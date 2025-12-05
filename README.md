@@ -73,20 +73,20 @@ A selection of my key projects demonstrating full-stack and specialized skills.
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats  
 <div align="center">
 
-<!-- Main GitHub Stats -->
+
 <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bijaypaudel977&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<!-- Streak Stats -->
+
 <img height="160" src="https://streak-stats.demolab.com?user=Bijaypaudel977&theme=tokyonight&hide_border=true"/>
 
-<!-- Top Languages -->
 <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bijaypaudel977&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+ -->
 
 ---
 
