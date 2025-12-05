@@ -77,9 +77,11 @@ A selection of my key projects demonstrating full-stack and specialized skills.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bijaypaudel977&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Bijay's GitHub Stats"/>
-  <img height="160" src="https://streak-stats.demolab.com?user=Bijaypaudel977&theme=tokyonight&hide_border=true" alt="Bijay's GitHub Streak"/>
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bijaypaudel977&layout=compact&theme=tokyonight&hide_border=true" alt="Bijay's Top Languages"/>
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bijaypaudel977&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_bust=4" alt="Bijay's GitHub Stats"/>
+  
+  <img height="160" src="https://streak-stats.demolab.com?user=Bijaypaudel977&theme=tokyonight&hide_border=true&token=YOUR_GENERATED_PAT" alt="Bijay's GitHub Streak"/>
+  
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bijaypaudel977&layout=compact&theme=tokyonight&hide_border=true&cache_bust=4" alt="Bijay's Top Languages"/>
 </div>
 
 ---
