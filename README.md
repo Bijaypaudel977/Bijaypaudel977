@@ -30,6 +30,27 @@ A modern e-commerce shoe store using **React + Tailwind + Node + Express + Mongo
 
 ---
 
+## 🏆 Projects & Achievements
+
+### 🚀 Projects  
+- **NetRakshak VPN (Flutter App)**  
+  A secure VPN application focusing on privacy and seamless connection experience.
+
+- **SajiloPaila – Shoe Store (MERN + Tailwind)**  
+  A modern e-commerce platform built using React, Tailwind, Node.js, Express, and MongoDB.
+
+- **Automated Tax Filing System (Hackathon Project)**  
+  An automated system designed to simplify and streamline tax submission processes.
+
+---
+
+### 🌟 Achievements  
+- **Cyfer Vote** – *Top 12 Semifinalist | ICT Award 2024*  
+  **Category:** Rising Star Innovation  
+  Recognized for building an innovative, secure, technology-driven voting platform.
+
+---
+
 <!-- TECH STACK -->
 ## 🧰 Tech Stack
 
