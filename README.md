@@ -25,11 +25,11 @@ A selection of my key projects demonstrating full-stack and specialized skills.
 
 ### 🛒 **SajiloPaila – Shoe Store** (MERN Stack + Tailwind)
 > A comprehensive, modern e-commerce platform built using the MERN stack (MongoDB, Express.js, React, Node.js) with a responsive, modern UI powered by Tailwind CSS.
-> *[Coming Soon: Link to Repo]*
+> *[Coming Soon...]*
 
 ### 🔐 **NetRakshak VPN** (Flutter App)
 > A privacy-focused mobile VPN application developed with Flutter, designed to offer a secure and seamless browsing experience across multiple platforms.
-> *[Coming Soon: Link to Repo]*
+> *[Coming Soon...]*
 
 ---
 
@@ -38,7 +38,6 @@ A selection of my key projects demonstrating full-stack and specialized skills.
 ### Notable Projects
 
 * **Automated Tax Filing System (Hackathon Project):** An efficient system designed to simplify and streamline the tax submission and compliance process.
-* **Other Projects:** *[List other smaller, completed projects here with brief descriptions]*
 
 ### Recognition
 
